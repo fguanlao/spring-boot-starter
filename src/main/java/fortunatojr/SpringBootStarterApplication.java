@@ -1,4 +1,4 @@
-package com.fortunatojr.springbootstarter;
+package fortunatojr;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

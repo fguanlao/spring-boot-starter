@@ -15,10 +15,10 @@ The following commands are run in the project root
 ## Run:
 
 #### Windows:
-`gradlew.bat run`
+`gradlew.bat bootRun`
 
 #### Linux/macOS:
-`./gradlew run`
+`./gradlew bootRun`
 
 ## Endpoints:
 `localhost:8080/api/teams/{long id}`  I recommend using `10`

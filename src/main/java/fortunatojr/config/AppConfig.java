@@ -1,4 +1,4 @@
-package com.fortunatojr.springbootstarter.config;
+package fortunatojr.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

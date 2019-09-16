@@ -1,6 +1,6 @@
-package com.fortunatojr.springbootstarter.controller;
+package fortunatojr.controller;
 
-import com.fortunatojr.springbootstarter.service.TeamService;
+import fortunatojr.service.TeamService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

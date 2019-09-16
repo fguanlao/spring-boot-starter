@@ -1,4 +1,4 @@
-package com.fortunatojr.springbootstarter;
+package fortunatojr;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
