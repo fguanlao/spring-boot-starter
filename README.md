@@ -15,7 +15,7 @@ The following commands are run in the project root
 
 
 ### Run with Docker:
-`docker run -p 8080:8080 com.fortunatojr/spring-boot-starter`
+`docker run -p 8080:8080 fguanlao/spring-boot-starter`
 
 ### Run without Docker:
 
