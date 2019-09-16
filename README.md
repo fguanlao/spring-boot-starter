@@ -4,15 +4,20 @@ Basic application with a REST Server and Client.
 
 The following commands are run in the project root
 
-## Build:
+### Build:
 
 #### Windows:
-`gradlew.bat build`
+`gradlew.bat build docker`
 
 #### Linux/macOS:
-`./gradlew build`
+`./gradlew build docker`
 
-## Run:
+
+
+### Run with Docker:
+`docker run -p 8080:8080 com.fortunatojr/spring-boot-starter`
+
+### Run without Docker:
 
 #### Windows:
 `gradlew.bat bootRun`
@@ -20,5 +25,5 @@ The following commands are run in the project root
 #### Linux/macOS:
 `./gradlew bootRun`
 
-## Endpoints:
+### Endpoints:
 `localhost:8080/api/teams/{long id}`  I recommend using `10`
