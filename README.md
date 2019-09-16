@@ -4,21 +4,21 @@ Basic application with a REST Server and Client.
 
 The following commands are run in the project root
 
-### Build:
+## Build:
 
-####Windows:
+#### Windows:
 `gradlew.bat build`
 
-####Linux/macOS:
+#### Linux/macOS:
 `./gradlew build`
 
-### Run:
+## Run:
 
-####Windows:
+#### Windows:
 `gradlew.bat run`
 
-####Linux/macOS:
+#### Linux/macOS:
 `./gradlew run`
 
-#### Endpoints:
+## Endpoints:
 `localhost:8080/api/teams/{long id}`  I recommend using `10`
